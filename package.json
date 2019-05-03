@@ -1,0 +1,20 @@
+{
+  "name": "cursojs",
+  "version": "1.0.0",
+  "description": "Nossa blibioteca do curso de JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/rogerio-dfb/js-tdd-course.git)"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Rogerio Barbosa <rogerio_dfb@hotmail.com>",
+  "license": "MIT"
+}
